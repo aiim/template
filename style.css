@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.con{
+    text-align: center;
+
+}
+body{
+    position: relative;
+    background-position: center;
+    background-color: rgb(255, 255, 255);
+}
+.contain{
+    width: 1200px;
+    margin: auto;
+    background-color: white;
+    padding: 10;
+}
+
+.satu {
+    background-color: rgb(190, 10, 10);
+    height: 30px;
+    width: 450px;
+    float: left;
+}
+
+.dua {
+    background-color: rgb(224, 60, 48);
+    height: 30px;
+    width: 350px;
+    float: left;
+}
+.tiga {
+    background-color: rgb(247, 103, 84);
+    height: 30px;
+    width: 250px;
+    float: left;
+}
+.empat {
+    background-color: rgb(250, 139, 139);
+    height: 30px;
+    width: 150px;
+    float: left;
+}
+
+.clear{
+    clear: left;
+}
+.header{
+    background-image: url(img/logo-pmi.jpg);
+    width: 150px;
+    height: 57px;   
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.menu{
+    background-color: rgb(172, 11, 11);
+    color: white;
+    height: 40px;
+}
+
+.menu ul li{
+    display: inline-block;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+}
+.menu a:hover {
+    background-color: white;
+    color: rgb(199, 0, 0);
+    padding: 12px;
+  }
+
+.content {
+    background-color: rgb(219, 219, 218);
+    width: 900px;
+    box-sizing: 900px;
+}
+.content1 {
+    background-color: rgb(161, 161, 161);
+    width: 300px;
+    box-sizing: 300px;
+    top: 0;
+    float: right;
+}
+.content1 h2{
+    text-align: center;
+    background-color: rgb(250, 249, 249);
+}
+.content1 a{
+
+}
+.content h1{
+    background-color: rgb(173, 172, 172);
+    text-align: center;
+}
+.content p{
+    padding: 10px;
+    text-align: justify;
+    line-height: 15px;
+
+}
+.footer{
+    background-color: rgb(189, 189, 188);
+    text-align: center;
+}
+.footer .copy {
+    display: inline-block;
+    height: 10px;
+    font-size: 11px;
+}
+
