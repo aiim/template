@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5mm" height="5mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="667" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="D" horiz-adv-x="722" d="M77.0103 0l0 715.96 246.622 0c55.6553,0 98.1763,-3.30719 127.563,-10.1106 41.0092,-9.54361 75.9709,-26.6465 104.98,-51.3087 37.7965,-32.0325 65.9548,-72.6637 84.6641,-122.366 18.8037,-49.7024 28.1584,-106.492 28.1584,-170.368 0,-54.3324 -6.33091,-102.428 -18.9927,-144.477 -12.6618,-41.9541 -29.0088,-76.8213 -48.8519,-104.318 -20.0321,-27.4969 -41.6706,-49.1354 -65.2934,-64.8209 -23.5283,-15.8745 -52.0646,-27.8749 -85.3255,-36.0011 -33.5444,-8.22073 -71.9078,-12.1894 -115.185,-12.1894l-258.339 0zm94.9636 84.0026l152.698 0c47.1511,0 84.1916,4.34659 111.027,13.1343 26.8355,8.88217 48.096,21.166 64.1595,37.2295 22.2999,22.4889 39.7808,52.8206 52.3481,90.806 12.4728,37.9854 18.8037,84.0026 18.8037,138.146 0,75.026 -12.3783,132.666 -36.8516,173.013 -24.4732,40.3477 -54.3324,67.3722 -89.4831,80.9789 -25.3236,9.82708 -66.1438,14.6461 -122.555,14.6461l-150.146 0 0 -547.954z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke:#2B2A29;stroke-width:10;stroke-miterlimit:22.9256}
+    .fil0 {fill:#FEFEFE}
+    .fil2 {fill:#2B2A29}
+    .fil1 {fill:#2B2A29}
+    .fnt0 {font-weight:normal;font-size:105.83px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0 str0" cx="246" cy="254" r="150"/>
+  <g id="_1178288048">
+   <rect class="fil1" x="196" y="239.95" width="100" height="99.05"/>
+   <polygon class="fil1" points="267.29,169 221.51,213.74 243.2,212.87 226.95,242.62 269.48,201.48 248.4,201.57 "/>
+  </g>
+  <text x="268.52" y="229.36"  class="fil2 fnt0">D</text>
+ </g>
+</svg>

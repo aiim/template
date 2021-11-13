@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5mm" height="5mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#FEFEFE;stroke-width:3.53;stroke-miterlimit:22.9256}
+    .str0 {stroke:#2B2A29;stroke-width:10;stroke-miterlimit:22.9256}
+    .fil1 {fill:none}
+    .fil0 {fill:#FEFEFE}
+    .fil2 {fill:#00A0E3}
+    .fil3 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0 str0" cx="247.6" cy="253.06" r="150"/>
+  <rect class="fil0" x="212.91" y="206.98" width="66.15" height="35.14" rx="8.05" ry="10.69"/>
+  <ellipse class="fil0" cx="222.34" cy="196.25" rx="5.99" ry="6.09"/>
+  <ellipse class="fil0" cx="270.03" cy="195.98" rx="5.99" ry="6.09"/>
+  <line class="fil1 str1" x1="209.87" y1="318.18" x2="282.12" y2= "318.07" />
+  <line class="fil1 str1" x1="220.98" y1="310.79" x2="270.98" y2= "310.68" />
+  <path class="fil2" d="M230.38 342.56c-9.69,-2.75 -23.18,-14.88 -28.79,-24.89 -5.71,-10.22 -8.61,-32.23 -2.22,-43.77 0.74,22.43 4.78,39.75 18.91,56.37 6.04,7.1 9.46,9.2 12.1,12.29zm15.62 -185.27l-3.24 5.96c-10.95,23.4 -40.15,80.19 -47.02,98.01 -7.84,20.35 -11.43,43.05 0.23,62.01 21.98,35.76 76.23,37.21 99.75,0.5 11.92,-18.61 8.5,-41.52 0.76,-61.91 -3.41,-8.99 -8.11,-17.22 -12.21,-26.08l-37.19 -76.95c-0.88,-1.44 -0.47,-0.79 -1.08,-1.54z"/>
+  <path class="fil3" d="M230.38 342.56c-2.64,-3.09 -6.06,-5.19 -12.1,-12.29 -14.13,-16.62 -18.17,-33.94 -18.91,-56.37 -6.39,11.54 -3.49,33.55 2.22,43.77 5.61,10.01 19.1,22.14 28.79,24.89z"/>
+ </g>
+</svg>

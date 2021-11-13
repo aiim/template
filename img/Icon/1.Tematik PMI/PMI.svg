@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5mm" height="5mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:cc="http://creativecommons.org/ns#"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:svg="http://www.w3.org/2000/svg"
+ xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+ xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+ sodipodi:docname="pmi.svg"
+ inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+ <defs>
+  <font id="FontID0" horiz-adv-x="722" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="I" horiz-adv-x="277" d="M68.0219 0l0 716.028 144.957 0 0 -716.028 -144.957 0z"/>
+   <glyph unicode="M" horiz-adv-x="832" d="M70.993 0l0 716.028 217.201 0 128.382 -488.35 126.818 488.35 217.67 0 0 -716.028 -134.011 0 -0.625489 563.722 -141.048 -563.722 -139.328 0 -140.579 563.722 -0.469116 -563.722 -134.011 0z"/>
+   <glyph unicode="P" horiz-adv-x="666" d="M73.0258 0l0 716.028 231.744 0c87.8812,0 145.113,-3.59656 171.697,-10.6333 40.9695,-10.9461 75.3714,-34.2455 103.049,-70.2111 27.6779,-35.9656 41.4386,-82.5645 41.4386,-139.484 0,-44.097 -7.97498,-80.8444 -23.7686,-110.868 -15.95,-30.0235 -36.122,-53.4793 -60.6724,-70.6802 -24.5504,-17.0446 -49.57,-28.3034 -74.9023,-33.7764 -34.4019,-6.88038 -84.2846,-10.3206 -149.648,-10.3206l-93.9797 0 0 -270.055 -144.957 0zm144.957 594.996l0 -204.066 78.8116 0c56.9195,0 94.7615,3.9093 113.839,11.4152 19.2338,7.50586 34.2455,19.0774 45.0352,35.3401 10.7897,15.95 16.2627,34.5582 16.2627,55.8249 0,26.1142 -7.66224,47.6935 -22.8303,64.5817 -15.3245,17.0446 -34.4019,27.6779 -57.8577,32.0563 -17.2009,3.12744 -51.7592,4.84754 -103.675,4.84754l-69.5856 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .str1 {stroke:#E31E24;stroke-width:3;stroke-miterlimit:22.9256}
+    .str2 {stroke:#E31E24;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#2B2A29;stroke-width:10;stroke-miterlimit:22.9256}
+    .fil1 {fill:none}
+    .fil2 {fill:black}
+    .fil0 {fill:#FEFEFE}
+    .fnt0 {font-weight:bold;font-size:63.95px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0 str0" cx="246" cy="254" r="150"/>
+  <sodipodi:namedview inkscape:window-maximized="1" inkscape:window-y="-11" inkscape:window-x="-11" inkscape:window-height="1586" inkscape:window-width="2880" inkscape:snap-page="false" showgrid="false" inkscape:document-rotation="0" inkscape:current-layer="layer1" inkscape:document-units="mm" inkscape:cy="102.03816" inkscape:cx="96.303751" inkscape:zoom="5.6" inkscape:pageshadow="2" inkscape:pageopacity="0.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base"/>
+  <g id="_1585464992">
+   <g>
+    <path class="fil1 str1" d="M221.25 189.04c-0.09,-0.87 -0.14,-1.75 -0.14,-2.64 0,-13.8 11.19,-24.99 25,-24.99 13.81,0 25,11.19 25,24.99 0,0.93 -0.05,1.85 -0.15,2.76 3.08,-1.36 6.49,-2.12 10.08,-2.12 13.81,0 25,11.19 25,25 0,11.96 -8.4,21.97 -19.63,24.42 3.98,4.43 6.4,10.28 6.4,16.71 0,13.8 -11.19,25 -25,25 -9.37,0 -17.53,-5.15 -21.81,-12.78 -4.28,7.63 -12.44,12.78 -21.81,12.78 -13.81,0 -25,-11.2 -25,-25 0,-6.51 2.49,-12.44 6.56,-16.89 -11.31,-2.4 -19.79,-12.43 -19.79,-24.45 0,-13.81 11.19,-25 25,-25 3.67,0 7.15,0.79 10.29,2.21z"/>
+    <g>
+     <line class="fil1 str2" x1="210.18" y1="221.81" x2="280.18" y2= "221.81" />
+     <line class="fil1 str2" x1="245.18" y1="187.13" x2="245.18" y2= "257.13" />
+    </g>
+   </g>
+   <g>
+    <g transform="matrix(0.983482 0 0 1 -56.8505 96.59)">
+     <text x="250" y="250" id="text5099" class="fil2 fnt0">PMI</text>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

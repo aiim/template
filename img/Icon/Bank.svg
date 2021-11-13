@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5mm" height="5mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="667" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="P" horiz-adv-x="667" d="M77.0103 0l0 715.96 270.339 0c47.5291,0 83.8137,-2.26779 108.948,-6.80336 35.2452,-5.85845 64.7264,-17.0084 88.5382,-33.3554 23.8118,-16.4415 42.9935,-39.4973 57.4506,-68.9786 14.5516,-29.4812 21.733,-61.9862 21.733,-97.5149 0,-60.6633 -19.3707,-112.161 -58.2066,-154.115 -38.6469,-42.2376 -108.854,-63.2146 -210.148,-63.2146l-183.691 0 0 -291.978 -94.9636 0zm94.9636 375.98l185.014 0c61.3248,0 104.696,11.3389 130.492,34.2058 25.7016,22.7724 38.5524,54.8049 38.5524,96.2865 0,29.8592 -7.55929,55.5608 -22.6779,76.8213 -15.2131,21.355 -35.1507,35.5287 -59.8129,42.332 -16.0635,4.2521 -45.5447,6.33091 -88.3492,6.33091l-183.218 0 0 -255.977z"/>
+   <glyph unicode="R" horiz-adv-x="722" d="M78.9946 0l0 715.96 317.301 0c63.876,0 112.35,-6.4254 145.516,-19.2762 33.1664,-12.8508 59.7184,-35.5287 79.5616,-68.0336 19.7487,-32.505 29.6702,-68.5061 29.6702,-107.814 0,-50.8362 -16.536,-93.6407 -49.4189,-128.508 -32.7884,-34.8672 -83.4357,-56.7892 -152.131,-66.3328 25.1346,-12.0004 44.1274,-24.0008 57.1672,-35.6232 27.6859,-25.4181 53.86,-57.1672 78.3332,-95.3416l123.878 -195.03 -118.397 0 -94.6801 149.013c-27.4969,43.1825 -50.2693,75.9709 -68.1281,98.8378 -17.9533,22.7724 -34.0168,38.6469 -48.1905,47.8125 -13.9847,8.97666 -28.4418,15.3076 -43.1825,18.9927 -10.583,2.1733 -28.1584,3.30719 -52.6316,3.30719l-109.704 0 0 -317.963 -94.9636 0zm94.9636 399.981l203.345 0c43.3714,0 77.0103,4.53558 101.389,13.5122 24.2842,8.88217 42.8045,23.1503 55.2773,42.9935 12.6618,19.6542 18.9927,41.0092 18.9927,64.1595 0,33.8278 -12.0949,61.8917 -36.6626,83.7192 -24.4732,21.8275 -63.1201,32.5995 -115.941,32.5995l-226.401 0 0 -236.984z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke:#2B2A29;stroke-width:10;stroke-miterlimit:22.9256}
+    .fil0 {fill:#FEFEFE}
+    .fil1 {fill:#2B2A29}
+    .fnt0 {font-weight:normal;font-size:105.83px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0 str0" cx="246" cy="254" r="100"/>
+  <text x="170.6" y="291.87"  class="fil1 fnt0">RP</text>
+ </g>
+</svg>

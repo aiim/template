@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5mm" height="5mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="667" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="M" horiz-adv-x="833" d="M75.026 0l0 715.96 142.02 0 169.328 -506.756c15.591,-47.2456 26.93,-82.4908 34.1113,-106.019 8.22073,25.9851 20.977,64.3485 38.3634,114.807l172.352 497.968 126.807 0 0 -715.96 -90.995 0 0 598.979 -209.014 -598.979 -85.3255 0 -206.652 610.035 0 -610.035 -90.995 0z"/>
+   <glyph unicode="P" horiz-adv-x="667" d="M77.0103 0l0 715.96 270.339 0c47.5291,0 83.8137,-2.26779 108.948,-6.80336 35.2452,-5.85845 64.7264,-17.0084 88.5382,-33.3554 23.8118,-16.4415 42.9935,-39.4973 57.4506,-68.9786 14.5516,-29.4812 21.733,-61.9862 21.733,-97.5149 0,-60.6633 -19.3707,-112.161 -58.2066,-154.115 -38.6469,-42.2376 -108.854,-63.2146 -210.148,-63.2146l-183.691 0 0 -291.978 -94.9636 0zm94.9636 375.98l185.014 0c61.3248,0 104.696,11.3389 130.492,34.2058 25.7016,22.7724 38.5524,54.8049 38.5524,96.2865 0,29.8592 -7.55929,55.5608 -22.6779,76.8213 -15.2131,21.355 -35.1507,35.5287 -59.8129,42.332 -16.0635,4.2521 -45.5447,6.33091 -88.3492,6.33091l-183.218 0 0 -255.977z"/>
+   <glyph unicode="T" horiz-adv-x="610" d="M259 0l0 631.957 -236.039 0 0 84.0026 567.041 0 0 -84.0026 -236.039 0 0 -631.957 -94.9636 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke:#2B2A29;stroke-width:10;stroke-miterlimit:22.9256}
+    .fil0 {fill:#FEFEFE}
+    .fil1 {fill:#2B2A29}
+    .fnt0 {font-weight:normal;font-size:105.83px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0 str0" cx="246" cy="254" r="150"/>
+  <text x="135.38" y="291.89"  class="fil1 fnt0">TMP</text>
+ </g>
+</svg>
